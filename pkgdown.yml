@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  articles/forecast: forecast.html
+  articles/riem: riem.html
+last_built: 2021-07-14T09:44Z
+urls:
+  reference: https://docs.ropensci.org/riem/reference
+  article: https://docs.ropensci.org/riem/articles
+

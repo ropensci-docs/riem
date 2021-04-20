@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "be941c7a4ece859d0ca996656bcba2b3a5cc3224",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2021-04-20 08:31:01",
+    "files": 1,
+    "merge": false,
+    "message": "Update README.md"
+  },
+  "remote": "https://github.com/ropensci/riem",
+  "pkg": "riem"
+}
