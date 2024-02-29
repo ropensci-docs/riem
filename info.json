@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5e6484a0ada504e71a48c22abc635b050b0d33a4",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2022-11-29 14:54:50",
+    "files": 1,
+    "merge": false,
+    "message": "update GHA workflow"
+  },
+  "repo": "https://github.com/ropensci/riem",
+  "pkg": "riem"
+}
