@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4baa91771ad8af17941af3a9015573569a7aaac1",
+    "author": "Maëlle Salmon <maelle.salmon@yahoo.se>",
+    "time": "2025-10-21T07:23:30Z",
+    "files": 1,
+    "merge": false,
+    "message": "docs: add README badge\n"
+  },
+  "repo": "https://github.com/ropensci/riem",
+  "pkg": "riem",
+  "time": "2026-08-30T07:36:59Z"
+}
